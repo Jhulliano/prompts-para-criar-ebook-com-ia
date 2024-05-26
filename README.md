@@ -14,7 +14,7 @@
 
 O projeto tem como objetivo criar um ebook com ferramentas de IA de forma gratuita. Todos os prompts estão disponibilizados abaixo.
 
-<a href="" title="PDF"> 📖 Clique para ler</a>
+<a href="https://github.com/Jhulliano/prompts-para-criar-ebook-com-ia/tree/main/resultado" title="PDF"> 📖 Clique para ler</a>
 
 ## 💻 Tecnologias utilizadas
 
